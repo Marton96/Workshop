@@ -4,14 +4,17 @@
 # Workshop
 
 
+
 ioana popescu
 =======
 =======
 
 asdas
+=======
+
+Bogdan
 
 
-my TEXT 
 
 
 Márton
@@ -36,4 +39,14 @@ Norby
 
 
 
+<<<<<<< HEAD
+ioana
+=======
+
+
+
+
+
+
+Horatiu Istovan
 ioana
