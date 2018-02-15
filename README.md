@@ -18,7 +18,13 @@ Stefan
 
 Norby
 
+
 Horatiu
+<<<<<<< HEAD
 
 
 Alinaaaa
+=======
+=======
+Miranda+Lazo121
+
