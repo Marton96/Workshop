@@ -1,5 +1,2 @@
 # Workshop
-
-prima modificare
-
-my TEXT 
+ioana popescu
