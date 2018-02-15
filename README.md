@@ -1,8 +1,2 @@
 # Workshop
-
-Hello world !!
-
-
-
-my TEXT 
-
+Andreea Surchea
