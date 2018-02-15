@@ -1,7 +1,9 @@
-# Workshop
-<<<<<<< HEAD
-Andreea Surchea
+
+
 =======
+# Workshop
+Andreea Surchea
+
 
 Márton
 
@@ -10,5 +12,5 @@ Bogdan
 
 alina
 
+Miranda
 
-Andreea
