@@ -1,24 +1,43 @@
 # Workshop
 
-Alina 
+
 
 Bogdan
 
+
+
+
+
+
+
+
+
 Márton
 
-Andreea
+Bogdan
 
-Viorel
+
+alina
+
+
+
+
 
 Miranda
 
-Ioana
 
-Stefan
 
 Norby
 
-Horatiu
 
-Alinaaaa
+
+
+
+
+
+
+
+Horatiu Istovan
+Horatiu Istovan
+
 
