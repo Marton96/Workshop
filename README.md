@@ -4,18 +4,25 @@ Márton
 
 # Workshop
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
+=======
+Bogdan
+>>>>>>> 2cec7adde3481e7bf825cef997df3fb6ecf23b61
 Andreea Surchea
 >>>>>>> 120b7e856354271fa9257c0d92eac6518b3d262b
 
 
+<<<<<<< HEAD
 ioana popescu
 =======
 =======
 =======
 Bogdan
+=======
+>>>>>>> 2cec7adde3481e7bf825cef997df3fb6ecf23b61
 alina
 <<<<<<< HEAD
 
@@ -87,3 +94,5 @@ Horatiu Istovan
 
 
 IOANA
+
+ioana
