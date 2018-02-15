@@ -3,11 +3,19 @@
 
 # Workshop
 
+<<<<<<< HEAD
 
 
 ioana popescu
 =======
 =======
+=======
+Bogdan
+alina
+
+
+
+
 
 asdas
 =======
@@ -22,7 +30,7 @@ Márton
 Bogdan
 
 
-alina
+
 
 ioana
 
@@ -49,4 +57,7 @@ ioana
 
 
 Horatiu Istovan
+<<<<<<< HEAD
 ioana
+=======
+
