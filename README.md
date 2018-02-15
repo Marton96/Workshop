@@ -27,7 +27,7 @@ alina
 Miranda
 
 <<<<<<< HEAD
-=======
+
 
 
 
